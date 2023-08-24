@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aflevering 2/Aflevering 2.iml" filepath="$PROJECT_DIR$/Aflevering 2/Aflevering 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aflevering 2.3/Aflevering 2.3.iml" filepath="$PROJECT_DIR$/Aflevering 2.3/Aflevering 2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arkitektur Projekt/Arkitektur Projekt.iml" filepath="$PROJECT_DIR$/Arkitektur Projekt/Arkitektur Projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arkitektur opgave1/Arkitektur opgave1.iml" filepath="$PROJECT_DIR$/Arkitektur opgave1/Arkitektur opgave1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arkitektur opgave2/Arkitektur opgave2.iml" filepath="$PROJECT_DIR$/Arkitektur opgave2/Arkitektur opgave2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arkitektur opgave3/Arkitektur opgave3.iml" filepath="$PROJECT_DIR$/Arkitektur opgave3/Arkitektur opgave3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enkeltrettet til-0..1 associering/Enkeltrettet til-0..1 associering.iml" filepath="$PROJECT_DIR$/Enkeltrettet til-0..1 associering/Enkeltrettet til-0..1 associering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enkeltrettet til-mange associering/Enkeltrettet til-mange associering.iml" filepath="$PROJECT_DIR$/Enkeltrettet til-mange associering/Enkeltrettet til-mange associering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions og io filer/Exceptions og io filer.iml" filepath="$PROJECT_DIR$/Exceptions og io filer/Exceptions og io filer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fletning/Fletning.iml" filepath="$PROJECT_DIR$/Fletning/Fletning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gui eksempel/Gui eksempel.iml" filepath="$PROJECT_DIR$/Gui eksempel/Gui eksempel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KAS Ultra/KAS Ultra.iml" filepath="$PROJECT_DIR$/KAS Ultra/KAS Ultra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L00 - Opgaver/L00 - Opgaver.iml" filepath="$PROJECT_DIR$/L00 - Opgaver/L00 - Opgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mange til mange - dobbeltrettet/Mange til mange - dobbeltrettet.iml" filepath="$PROJECT_DIR$/Mange til mange - dobbeltrettet/Mange til mange - dobbeltrettet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mange til mange associering/Mange til mange associering.iml" filepath="$PROJECT_DIR$/Mange til mange associering/Mange til mange associering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrom challenge/Palindrom challenge.iml" filepath="$PROJECT_DIR$/Palindrom challenge/Palindrom challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmering 1.semester.iml" filepath="$PROJECT_DIR$/Programmering 1.semester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt 3 - Yatzy/Projekt 3 - Yatzy.iml" filepath="$PROJECT_DIR$/Projekt 3 - Yatzy/Projekt 3 - Yatzy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt Terninger/Projekt Terninger.iml" filepath="$PROJECT_DIR$/Projekt Terninger/Projekt Terninger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SU Kajs Biler/SU Kajs Biler.iml" filepath="$PROJECT_DIR$/SU Kajs Biler/SU Kajs Biler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SemesterProeve Jens Ulrik/SemesterProeve Jens Ulrik.iml" filepath="$PROJECT_DIR$/SemesterProeve Jens Ulrik/SemesterProeve Jens Ulrik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SemesterProeve eksempel2/SemesterProeve eksempel2.iml" filepath="$PROJECT_DIR$/SemesterProeve eksempel2/SemesterProeve eksempel2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semesterproeve Eksempel1/Semesterproeve Eksempel1.iml" filepath="$PROJECT_DIR$/Semesterproeve Eksempel1/Semesterproeve Eksempel1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Soegning/Soegning.iml" filepath="$PROJECT_DIR$/Soegning/Soegning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dobbelt associering/dobbelt associering.iml" filepath="$PROJECT_DIR$/dobbelt associering/dobbelt associering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion-2903_2023_ArrayList/lektion-2903_2023_ArrayList.iml" filepath="$PROJECT_DIR$/lektion-2903_2023_ArrayList/lektion-2903_2023_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion0603_2023/lektion0603_2023.iml" filepath="$PROJECT_DIR$/lektion0603_2023/lektion0603_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion0802_2023/lektion0802_2023.iml" filepath="$PROJECT_DIR$/lektion0802_2023/lektion0802_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion0803_2023/lektion0803_2023.iml" filepath="$PROJECT_DIR$/lektion0803_2023/lektion0803_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion1104_2023_Gui2/lektion1104_2023_Gui2.iml" filepath="$PROJECT_DIR$/lektion1104_2023_Gui2/lektion1104_2023_Gui2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion1302_2023/lektion1302_2023.iml" filepath="$PROJECT_DIR$/lektion1302_2023/lektion1302_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion1402_2023/lektion1402_2023.iml" filepath="$PROJECT_DIR$/lektion1402_2023/lektion1402_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion1403_2023/lektion1403_2023.iml" filepath="$PROJECT_DIR$/lektion1403_2023/lektion1403_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion1904_2023_associering/lektion1904_2023_associering.iml" filepath="$PROJECT_DIR$/lektion1904_2023_associering/lektion1904_2023_associering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion2002_2023/lektion2002_2023.iml" filepath="$PROJECT_DIR$/lektion2002_2023/lektion2002_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion2202_2023/lektion2202_2023.iml" filepath="$PROJECT_DIR$/lektion2202_2023/lektion2202_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion3103_2023_Gui/lektion3103_2023_Gui.iml" filepath="$PROJECT_DIR$/lektion3103_2023_Gui/lektion3103_2023_Gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semester 1 sortering/semester 1 sortering.iml" filepath="$PROJECT_DIR$/semester 1 sortering/semester 1 sortering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studiestartsproeve/studiestartsproeve.iml" filepath="$PROJECT_DIR$/studiestartsproeve/studiestartsproeve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion1904_2023_associering/untitled/untitled.iml" filepath="$PROJECT_DIR$/lektion1904_2023_associering/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop/workshop.iml" filepath="$PROJECT_DIR$/workshop/workshop.iml" />
+    </modules>
+  </component>
+</project>
